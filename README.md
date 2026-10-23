@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <a href="[https://discord.gg/hmmM89nCdX](https://discord.gg/Krx8YMPXqe)">
+    <a href="https://discord.gg/Krx8YMPXqe">
         <img src="https://i.postimg.cc/NjXNPXt7/discord.png"/>
     </a>
 </p>
