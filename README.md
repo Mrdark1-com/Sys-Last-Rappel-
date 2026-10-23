@@ -2,8 +2,8 @@
 
 
 <p align="center">
-    <a href="https://discord.gg/hmmM89nCdX">
-        <img src="https://img.shields.io/discord/1068573047172374634?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+    <a href="[https://discord.gg/hmmM89nCdX](https://discord.gg/Krx8YMPXqe)">
+        <img src="https://discord.com/assets/7ba7fcf2c4710bb7.webm"/>
     </a>
 </p>
 
