@@ -1,4 +1,4 @@
-![Banner](https://i.postimg.cc/G2tmbdq8/lolia.png)
+![Banner](https://i.postimg.cc/G3QBDF70/Studio.png)
 
 
 <p align="center">
