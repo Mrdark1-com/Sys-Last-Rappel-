@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href="[https://discord.gg/hmmM89nCdX](https://discord.gg/Krx8YMPXqe)">
-        <img src="https://discord.com/assets/7ba7fcf2c4710bb7.webm"/>
+        <img src="https://i.postimg.cc/NjXNPXt7/discord.png"/>
     </a>
 </p>
 
